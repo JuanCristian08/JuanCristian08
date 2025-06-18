@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Sobre Mim
 
-<!--
-**JuanCristian08/JuanCristian08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+const JuanCristian08 = {
+  nome: "Juan de Borba",
+  idade: 18,
+  localizacao: "Santa Catarina, Brasil",
+  linguagens: ["Dart", "JavaScript"],
+  frameworks: ["Flutter", "React", "Next.js"],
+  bancosDeDados: ["Firebase", "MySQL"],
+  foco: "Criar soluções reais, impactantes e objetivas",
+};
+📚 Sempre aprendendo e evoluindo
 
-Here are some ideas to get you started:
+🚀 Apaixonado por programação e boas práticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Determinado e objetivo no que me proponho
+
+📱 Foco total em apps mobile-first com Flutter
