@@ -17,3 +17,58 @@ const JuanCristian08 = {
 🔍 Curioso por design, performance e inovação
 
 📱 Focado em soluções mobile-first e integrações modernas
+
+
+
+🛠️ Minha Stack Tecnológica
+🎨 Frontend
+
+
+
+
+
+
+
+
+
+
+
+🔙 Backend
+
+
+
+
+
+
+
+
+📱 Mobile
+
+☁️ DevOps & Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧠 Machine Learning & AI
+
+
+
+
+
+🧱 Arquitetura & Boas Práticas
+
+
+
+
+
+
