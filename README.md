@@ -4,16 +4,16 @@
 const JuanCristian08 = {
   nome: "Juan de Borba",
   idade: 18,
-  localizacao: "Santa Catarina, Brasil",
-  linguagens: ["Dart", "JavaScript"],
-  frameworks: ["Flutter", "React", "Next.js"],
-  bancosDeDados: ["Firebase", "MySQL"],
-  foco: "Criar soluções reais, impactantes e objetivas",
+  localizacao: "Santa Catarina, Blumenau",
+  linguagens: ["Dart", "TypeScript", "Java"],
+  frameworks: ["Flutter", "React"],
+  bancosDeDados: ["Firebase", "MySQL", "Supabase", "NoSQL"],
+   foco: "Criar soluções reais e funcionais para o dia a dia",
 };
 📚 Sempre aprendendo e evoluindo
 
-🚀 Apaixonado por programação e boas práticas
+❤️ Apaixonado por tecnologia e boas práticas
 
-🎯 Determinado e objetivo no que me proponho
+🔍 Curioso por design, performance e inovação
 
-📱 Foco total em apps mobile-first com Flutter
+📱 Focado em soluções mobile-first e integrações modernas
