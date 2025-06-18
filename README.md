@@ -18,3 +18,24 @@ const JuanCristian08 = {
 
 📱 Focado em soluções mobile-first e integrações modernas
 
+🛠️ Minha Stack Tecnológica
+Frontend
+React Vue.js TypeScript Next.js Nuxt.js TailwindCSS Vite React Native Nuxt UI Turbopack PNPM
+
+Backend
+Node.js Composer NestJS Prisma PostgreSQL MySQL Nitro SST
+
+Mobile
+Flutter
+
+DevOps & Cloud
+Firebase Apache Git Docker Kubernetes AWS CI/CD GitHub Actions Jira Confluence Neon Database Proxmox VMware NAS
+
+Machine Learning & AI
+TensorFlow Python NumPy LLM API Automatic1111
+
+Arquitetura & Boas Práticas
+SOLID DDD TDD Design Patterns Clean Code Microservices
+
+📫 Vamos nos Conectar
+ 
