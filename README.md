@@ -9,10 +9,17 @@
 
 ## 🧠 Sobre Mim
 
-- 🎯 Foco em resolver problemas reais com código limpo
-- 💡 Gosto de boas práticas, código performático e interfaces agradáveis
-- 🔭 Atualmente estudando Flutter no programa Entra21
-- 🧠 Sempre aprendendo e criando projetos próprios
+Sou um desenvolvedor apaixonado por transformar ideias em soluções tecnológicas funcionais e eficientes.  
+Tenho como foco resolver problemas reais com **código limpo**, **performático** e **de fácil manutenção**.
+
+- 🎯 Comprometido com boas práticas e excelência técnica
+- 💡 Apaixonado por criar interfaces modernas e intuitivas
+- 🚀 Em constante evolução, atualmente estudando **Flutter** pelo programa **Entra21** e **Java** pelo programa **+Devs2Blu**
+- 🔧 Sempre desenvolvendo projetos próprios e explorando novas tecnologias
+- 🧠 Acredito que aprender é um processo contínuo – estou sempre buscando evoluir
+
+> “Não basta saber programar. É preciso entender o propósito por trás do código.”
+
 
 ---
 
